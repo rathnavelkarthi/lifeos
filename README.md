@@ -112,6 +112,3 @@ flutter build ios --release
 Built with â¤ï¸ on Rocket.new
 
 
----
-
-[![Restore to rocket](https://img.shields.io/badge/Restore%20to-ROCKET-orange?style=for-the-badge&logo=rocket)](https://rocket.new)
