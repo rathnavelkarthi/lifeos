@@ -2,14 +2,14 @@
 
 A modern Flutter-based mobile application utilizing the latest mobile development technologies and tools for building responsive cross-platform applications.
 
-## 📋 Prerequisites
+## ð Prerequisites
 
 - Flutter SDK (^3.38.4)
 - Dart SDK
 - Android Studio / VS Code with Flutter extensions
 - Android SDK / Xcode (for iOS development)
 
-## 🛠️ Installation
+## ð ï¸ Installation
 
 1. Install dependencies:
 ```bash
@@ -21,27 +21,27 @@ flutter pub get
 flutter run
 ```
 
-## 📁 Project Structure
+## ð Project Structure
 
 ```
 flutter_app/
-├── android/            # Android-specific configuration
-├── ios/                # iOS-specific configuration
-├── lib/
-│   ├── core/           # Core utilities and services
-│   │   └── utils/      # Utility classes
-│   ├── presentation/   # UI screens and widgets
-│   │   └── splash_screen/ # Splash screen implementation
-│   ├── routes/         # Application routing
-│   ├── theme/          # Theme configuration
-│   ├── widgets/        # Reusable UI components
-│   └── main.dart       # Application entry point
-├── assets/             # Static assets (images, fonts, etc.)
-├── pubspec.yaml        # Project dependencies and configuration
-└── README.md           # Project documentation
+âââ android/            # Android-specific configuration
+âââ ios/                # iOS-specific configuration
+âââ lib/
+â   âââ core/           # Core utilities and services
+â   â   âââ utils/      # Utility classes
+â   âââ presentation/   # UI screens and widgets
+â   â   âââ splash_screen/ # Splash screen implementation
+â   âââ routes/         # Application routing
+â   âââ theme/          # Theme configuration
+â   âââ widgets/        # Reusable UI components
+â   âââ main.dart       # Application entry point
+âââ assets/             # Static assets (images, fonts, etc.)
+âââ pubspec.yaml        # Project dependencies and configuration
+âââ README.md           # Project documentation
 ```
 
-## 🧩 Adding Routes
+## ð§© Adding Routes
 
 To add new routes to the application, update the `lib/routes/app_routes.dart` file:
 
@@ -61,7 +61,7 @@ class AppRoutes {
 }
 ```
 
-## 🎨 Theming
+## ð¨ Theming
 
 This project includes a comprehensive theming system with both light and dark themes:
 
@@ -80,7 +80,7 @@ The theme configuration includes:
 - Input decoration themes
 - Card and dialog themes
 
-## 📱 Responsive Design
+## ð± Responsive Design
 
 The app is built with responsive design using the Sizer package:
 
@@ -92,7 +92,7 @@ Container(
   child: Text('Responsive Container'),
 )
 ```
-## 📦 Deployment
+## ð¦ Deployment
 
 Build the application for production:
 
@@ -104,9 +104,14 @@ flutter build apk --release
 flutter build ios --release
 ```
 
-## 🙏 Acknowledgments
+## ð Acknowledgments
 - Built with [Rocket.new](https://rocket.new)
 - Powered by [Flutter](https://flutter.dev) & [Dart](https://dart.dev)
 - Styled with Material Design
 
-Built with ❤️ on Rocket.new
+Built with â¤ï¸ on Rocket.new
+
+
+---
+
+[![Restore to rocket](https://img.shields.io/badge/Restore%20to-ROCKET-orange?style=for-the-badge&logo=rocket)](https://rocket.new)
